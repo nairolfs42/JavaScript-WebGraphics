@@ -8,6 +8,10 @@ leading to 3d scenes with animations and lighting/shaders.
 These projects additionally make use of html and a python server to be displayed interactively. 
 However, it is also deployed to github pages at the link below.
 
-[link](nairolfs42.github.io/JavaScript-WebGraphics/) 
+## Live website
+[main](https://nairolfs42.github.io/REPOSITORY-NAME/)
+
+# basic lighting
+ 
 [basic lighting](./asgn4_lighting/)
 
