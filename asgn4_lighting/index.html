@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+
+        <title>asgn4 - lighting - w26</title>
+        
+    </head>
+    <body onload="main()">
+        <canvas id="webgl" width="800" height="800" style="background-color: lightblue; border: 1px solid black;">
+        Please use a browser that supports "canvas"
+        </canvas>
+
+      
+        <!--<div class="row btnbar">
+          <button id="clearBtn" type="button">Clear Canvas</button>
+        </div>-->
+
+        <p>
+        light X <input type="range" min="-250" max ="250" value ="0" class = "slider" id = "lightSlideX">
+        light Y <input type="range" min="-250" max ="250" value ="0" class = "slider" id = "lightSlideY">
+        light Z <input type="range" min="-250" max ="250" value ="0" class = "slider" id = "lightSlideZ">
+        <p>
+        <div id="fps">FPS: --</div>
+        <p>
+          Camera Angle <input type="range" min="0" max="360" value="5" class="slider" id="angleSlide">
+        <p>
+        <p>
+          Neck <input type="range" min="-35" max="35" value="0" class="slider" id="yellowSlide">
+        <p>
+        <p>
+          upperlegs <input type="range" min="-20" max="20" value="0" class="slider" id="magentaSlide">
+        <p>
+        <p>
+          lowerlegs <input type="range" min="-45" max="0" value="0" class="slider" id="lowerlegSlide">
+        <p>
+
+        
+        Animation:
+        <button type ="button" id = "animationYellowOnButton">ON</button>
+        <button type ="button" id = "animationYellowOffButton">OFF</button>
+
+        normals : 
+        <button type="button" id="g_normalOn">Normals ON</button>
+        <button type="button" id="g_normalOff">Normals OFF</button>
+        <p>
+        lighting : 
+        <button type="button" id="lightingOn">Lighting ON</button>
+        <button type="button" id="lightingOff">Lighting OFF</button>
+
+        <div class="row">
+          <br>
+          by Florian Horn Sanders<br />
+          fhornsan@ucsc.edu
+          <br>
+        </div>        
+
+        <br><br><br><br><br><br><br>
+        
+      
+        <script src="lib/webgl-utils.js"></script>
+        <script src="lib/webgl-debug.js"></script>
+        <script src="lib/cuon-utils.js"></script>
+        <script src="lib/cuon-matrix.js"></script>
+
+        <script src="world/sheep.js"></script>
+        <script src="world/camera.js"></script>
+        <script src="world/shapes.js"></script>
+        <script src="world/World.js"></script>
+    </body>
+
+</html>
