@@ -6,3 +6,7 @@ They demonstrate different levels of computer graphics, starting from the ground
 leading to 3d scenes with animations and lighting/shaders. 
 
 These projects additionally make use of html and a python server to be displayed interactively. 
+
+
+basic lighting : 
+![asgn4-lighting](asgn4_lighting/)
