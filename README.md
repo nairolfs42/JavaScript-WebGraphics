@@ -9,4 +9,4 @@ These projects additionally make use of html and a python server to be displayed
 
 
 basic lighting : 
-![asgn4-lighting](asgn4_lighting/)
+[Launch the Basic Lighting Demo](./asgn4_lighting/)
