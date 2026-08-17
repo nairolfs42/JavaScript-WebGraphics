@@ -8,5 +8,6 @@ leading to 3d scenes with animations and lighting/shaders.
 These projects additionally make use of html and a python server to be displayed interactively. 
 
 
-basic lighting : 
-[Launch the Basic Lighting Demo](./asgn4_lighting/)
+
+[basic lighting](./asgn4_lighting/)
+nairolfs42.github.io/JavaScript-WebGraphics/ 
