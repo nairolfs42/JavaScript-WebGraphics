@@ -9,7 +9,7 @@ These projects additionally make use of html and a python server to be displayed
 However, it is also deployed to github pages at the link below.
 
 ## Live website
-[main](https://nairolfs42.github.io/REPOSITORY-NAME/)
+[main](https://nairolfs42.github.io/JavaScript-WebGraphics/)
 
 # basic lighting
  
