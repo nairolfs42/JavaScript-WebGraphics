@@ -10,4 +10,4 @@ These projects additionally make use of html and a python server to be displayed
 
 
 [basic lighting](./asgn4_lighting/)
-nairolfs42.github.io/JavaScript-WebGraphics/ 
+[](nairolfs42.github.io/JavaScript-WebGraphics/) 
