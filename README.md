@@ -6,8 +6,8 @@ They demonstrate different levels of computer graphics, starting from the ground
 leading to 3d scenes with animations and lighting/shaders. 
 
 These projects additionally make use of html and a python server to be displayed interactively. 
+However, it is also deployed to github pages at the link below.
 
-
-
+[link](nairolfs42.github.io/JavaScript-WebGraphics/) 
 [basic lighting](./asgn4_lighting/)
-[](nairolfs42.github.io/JavaScript-WebGraphics/) 
+
